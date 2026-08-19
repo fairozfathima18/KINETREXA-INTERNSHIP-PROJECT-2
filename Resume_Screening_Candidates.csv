@@ -1,0 +1,21 @@
+CandidateID,Name,Skills,Education,ExperienceYears,TargetRole,Email
+C001,Ananya Sharma,"Python, SQL, Machine Learning, NLP, Pandas, Scikit-learn",B.Tech Computer Science,3,ML Engineer,ananya@example.com
+C002,Rahul Kumar,"Java, Spring Boot, SQL, REST API, Git, Docker",B.Tech IT,4,Backend Developer,rahul@example.com
+C003,Priya Nair,"Python, NLP, Spacy, NLTK, Machine Learning, SQL",M.Tech AI,2,NLP Engineer,priya@example.com
+C004,Arjun Menon,"HTML, CSS, JavaScript, React, Node.js, MongoDB",B.Tech CSE,3,Full Stack Developer,arjun@example.com
+C005,Sneha Patel,"Python, Excel, SQL, Power BI, Tableau, Statistics",B.Sc Data Science,2,Data Analyst,sneha@example.com
+C006,Vikram Singh,"Python, TensorFlow, Deep Learning, Computer Vision, OpenCV",B.Tech AI,4,AI Engineer,vikram@example.com
+C007,Meera Joseph,"Cybersecurity, Linux, Python, Networking, SIEM, Splunk",B.Tech CSE,2,SOC Analyst,meera@example.com
+C008,Karthik Rao,"C++, Java, Data Structures, Algorithms, Git",B.E. CSE,3,Software Engineer,karthik@example.com
+C009,Divya Iyer,"Python, SQL, NLP, Transformers, Hugging Face, BERT",M.Tech CSE,3,NLP Engineer,divya@example.com
+C010,Mohammed Faisal,"AWS, Docker, Kubernetes, Linux, Terraform, Python",B.Tech Cloud Computing,4,Cloud Engineer,faisal@example.com
+C011,Keerthi S,"Python, Pandas, NumPy, SQL, Matplotlib, Statistics",B.Tech CSE,1,Data Analyst,keerthi@example.com
+C012,Naveen Kumar,"Java, Python, SQL, AWS, Docker, REST API",B.Tech CSE,3,Backend Developer,naveen@example.com
+C013,Aishwarya R,"Python, Machine Learning, NLP, Deep Learning, SQL",B.Tech AI & DS,2,ML Engineer,aishwarya@example.com
+C014,Sanjay Verma,"JavaScript, React, TypeScript, Node.js, PostgreSQL",B.Tech CSE,3,Frontend Developer,sanjay@example.com
+C015,Farah Khan,"Python, SQL, Power BI, Excel, Data Visualization",B.Com Analytics,2,Business Analyst,farah@example.com
+C016,Rohit Das,"Linux, Networking, Python, Wireshark, SIEM, Splunk",B.Tech CSE,3,Security Analyst,rohit@example.com
+C017,Lakshmi Devi,"Python, SQL, Machine Learning, Scikit-learn, XGBoost",M.Sc Data Science,2,Data Scientist,lakshmi@example.com
+C018,Aditya Shah,"AWS, Azure, Python, Kubernetes, CI/CD, Docker",B.Tech CSE,3,DevOps Engineer,aditya@example.com
+C019,Nithya Krishnan,"NLP, Python, NLTK, Spacy, SQL, Text Classification",M.Sc AI,2,NLP Engineer,nithya@example.com
+C020,Harish Babu,"C#, .NET, SQL Server, ASP.NET, Git",B.Tech IT,4,.NET Developer,harish@example.com
